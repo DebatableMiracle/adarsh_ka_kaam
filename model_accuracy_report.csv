@@ -1,0 +1,5 @@
+Shipment Type,Test MAE (Error),Avg Weekly Volume,Error %
+Air,7.02,32.42,21.6%
+Express,5.01,19.2,26.1%
+International,1.93,4.25,45.4%
+Surface,7.59,38.86,19.5%

@@ -1,0 +1,9 @@
+Company,Last Booking Date,Predicted Days Until Next,Predicted Next Shipment Type,Predicted Next Date
+Delhivery,2025-12-31,0.0,Surface,2025-12-31
+BlueDart,2025-12-31,0.0,Air,2025-12-31
+Shadowfax,2025-12-31,0.03833333333333333,Air,2025-12-31
+DHL Express,2025-12-31,0.0,Air,2025-12-31
+DTDC,2025-12-31,0.006666666666666666,Air,2025-12-31
+FedEx India,2025-12-31,0.0,Surface,2025-12-31
+Ecom Express,2025-12-31,0.0,Surface,2025-12-31
+XpressBees,2025-12-31,0.04,Surface,2025-12-31

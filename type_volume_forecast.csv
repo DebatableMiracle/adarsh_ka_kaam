@@ -1,0 +1,9 @@
+Company,Week Ending,Pred_Air,Pred_Express,Pred_International,Pred_Surface,Total_Predicted_Volume
+Delhivery,2026-01-04,45,24,6,49,124
+FedEx India,2026-01-04,28,15,3,31,77
+Ecom Express,2026-01-04,29,17,3,31,80
+DTDC,2026-01-04,28,18,4,34,84
+DHL Express,2026-01-04,36,25,5,49,115
+BlueDart,2026-01-04,28,13,3,27,71
+Shadowfax,2026-01-04,17,10,3,17,47
+XpressBees,2026-01-04,22,12,2,25,61
